@@ -17,4 +17,4 @@ for day in range(1, 6):
     total_bugs += bugs_caught
 
 # Display the final tally of bugs collected.
-print(f'Total bugs collected: {total_bugs}')
+print(f'\nTotal bugs collected: {total_bugs}')
